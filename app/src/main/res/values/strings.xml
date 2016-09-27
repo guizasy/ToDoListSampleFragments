@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="dicaNovoItem">Entre com o texto</string>
+</resources>
